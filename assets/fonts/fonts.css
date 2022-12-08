@@ -1,0 +1,26 @@
+@font-face {
+  font-family: 'Dig';
+  src: url('./Digital-Regular.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'PangMenZhengDao';
+  src: url('./PangMenZhengDao.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'YouSheBiaoTiHei';
+  src: url('./YouSheBiaoTiHei-2.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'PingFang SC';
+  src: url('./pingfang/PingFang Regular.otf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
